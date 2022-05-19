@@ -8,6 +8,7 @@
  * Licensed under the MIT License.
  */
 (function ($) {
+	console.log('1231');
 	'use strict';
 	let SORT = 'sort',
 		ASC = 'asc',
